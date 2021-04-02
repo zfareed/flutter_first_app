@@ -10,7 +10,7 @@ void main() {
           backgroundColor: Colors.orange),
         body: Center(
           child: Image(
-            image: AssetImage('Images/aliexpress.png'),),
+            image: AssetImage('Images/zain.jpg'),),
         )
         ),
         ), 
